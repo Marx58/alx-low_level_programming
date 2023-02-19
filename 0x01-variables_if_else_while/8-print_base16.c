@@ -1,4 +1,4 @@
-#include <stddio.h>
+#include <stdio.h>
 /**
  * main - to print numbers in base 16 in lowercase
  * Return: Always 0
